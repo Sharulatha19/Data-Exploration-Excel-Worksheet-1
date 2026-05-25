@@ -2,6 +2,7 @@
 Overview:
 
 This project focuses on organizing, analyzing, and extracting insights from a product dataset. Using fundamental Excel functions, the workflow transforms raw product metrics such as pricing, Price range, and product count into a structured summary.
+
 Installation & Setup:
 Windows 
 Microsoft Excel (or) WPS Office
