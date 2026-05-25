@@ -5,7 +5,7 @@ This project focuses on organizing, analyzing, and extracting insights from a pr
 
 Installation & Setup:
 Windows 
-Microsoft Excel (or) WPS Office
+Microsoft Excel 
 
 Steps Involved:
 
